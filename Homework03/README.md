@@ -4,3 +4,4 @@
 
 
 
+<a href="http://www.codeskulptor.org/#user45_PMMQEKoTkO_4.py">CodeSkulptor homework scourge method</a>
